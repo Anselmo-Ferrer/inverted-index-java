@@ -1,0 +1,1 @@
+Java, estrutura, algoritmo, árvore, eficiência, complexidade, busca, inserção, exclusão, binária, hash, tabela, função, desempenho, nó, folha, raiz, balanceamento

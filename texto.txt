@@ -1,0 +1,25 @@
+Java é uma linguagem de programação que suporta diversas estruturas de dados. Em um
+algoritmo de árvore binária, a eficiência e a complexidade são cruciais para operações
+como busca, inserção e exclusão. A tabela hash, por exemplo, utiliza uma função hash
+para distribuir dados de forma eficiente. Uma árvore binária não balanceada pode levar a
+uma complexidade de busca O(n), enquanto uma árvore binária balanceada, como uma
+árvore AVL, mantém a complexidade O(log n). Em estruturas de dados, o desempenho
+das operações pode variar drasticamente. Um nó em uma árvore pode ter subnós à
+esquerda e à direita. Se ambos os filhos de um nó forem nulos, esse nó é chamado de
+folha. A raiz é o nó superior da árvore. O balanceamento é uma técnica para manter a
+altura da árvore em um nível mínimo, garantindo eficiência nas operações. Em algoritmos
+avançados, a combinação de tabelas hash e árvores binárias pode melhorar o
+desempenho. Por exemplo, um algoritmo pode utilizar uma tabela hash para buscas
+rápidas e uma árvore binária para manter a ordem dos dados. Além disso, o termo 'busca'
+pode se referir a diferentes algoritmos, como busca binária ou busca linear. A 'inserção'
+em uma tabela hash depende da função hash escolhida, que deve minimizar colisões. A
+'exclusão' de elementos em árvores binárias deve considerar se o nó a ser excluído tem
+filhos ou não. Vale destacar que em uma árvore binária balanceada, ao remover um nó,
+pode ser necessário realizar rotações para manter o balanceamento. Na programação em
+Java, o desempenho das estruturas de dados é fundamental para a eficiência dos
+algoritmos. Por exemplo, ao manipular grandes volumes de dados, a escolha entre uma
+árvore binária e uma tabela hash pode impactar significativamente o tempo de execução.
+Ao implementar algoritmos de balanceamento, é importante entender as nuances de
+cada abordagem, como a rotação simples e a rotação dupla. O balanceamento adequado
+garante que a altura da árvore permaneça logarítmica, evitando que a árvore se torne
+degenerada, onde uma árvore binária de busca se assemelha a uma lista encadeada.
